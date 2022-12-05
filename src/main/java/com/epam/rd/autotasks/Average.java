@@ -17,7 +17,7 @@ public class Average {
            num =  scanner.nextInt();
         }
 
-        System.out.print( 3);
+        System.out.print(sum/count);
 
 
     }
